@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: #f3f4f6;
+    background-color: #973c20;
   text-align: center;
 }
 .loading{
@@ -20,8 +20,8 @@ body {
 .inner {
   
     border:3px solid transparent;
-    border-top-color: #10b981;
-    border-right-color: #10b981;
+    border-top-color: #726f6b;
+    border-right-color: #726f6b;
     border-radius: 50%;
     position: absolute;
     top: 50%;
